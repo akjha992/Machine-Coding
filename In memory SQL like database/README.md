@@ -16,4 +16,4 @@ The objective is to design and implement an in-memory SQL-like database, which s
 
 # Design
 ## Class Diagram
-![alt text](https://github.com/akjha992/Machine-Coding/blob/main/class-diagram.png?raw=true)
+![alt text](https://github.com/akjha992/Machine-Coding/blob/main/In%20memory%20SQL%20like%20database/class-diagram.png)
